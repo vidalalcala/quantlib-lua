@@ -2,7 +2,8 @@ package = "QuantLib"
 version = "1.0-1"
 
 source = {
-   url = "..." -- We don't have one yet
+   url = "https://github.com/vidalalcala/quantlib-lua"
+   tag = "v1.0"
 }
 
 description = {
